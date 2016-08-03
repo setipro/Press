@@ -12,6 +12,9 @@
 		344641491D519B95005382F6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3446413E1D519B95005382F6 /* AppDelegate.m */; settings = {ASSET_TAGS = (); }; };
 		3446414B1D519B95005382F6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 344641411D519B95005382F6 /* main.m */; settings = {ASSET_TAGS = (); }; };
 		3446414C1D519B95005382F6 /* MainTabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 344641431D519B95005382F6 /* MainTabViewController.m */; settings = {ASSET_TAGS = (); }; };
+		344641511D51A151005382F6 /* MyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 344641501D51A151005382F6 /* MyViewController.m */; settings = {ASSET_TAGS = (); }; };
+		344641541D51A165005382F6 /* DiscoveryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 344641531D51A165005382F6 /* DiscoveryViewController.m */; settings = {ASSET_TAGS = (); }; };
+		344641571D51A171005382F6 /* OpenViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 344641561D51A171005382F6 /* OpenViewController.m */; settings = {ASSET_TAGS = (); }; };
 		EEE0FFDD9F39209D762F60E2 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = C6FCA9A8E3D2317D05DF04F6 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +28,12 @@
 		344641411D519B95005382F6 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		344641421D519B95005382F6 /* MainTabViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainTabViewController.h; sourceTree = "<group>"; };
 		344641431D519B95005382F6 /* MainTabViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainTabViewController.m; sourceTree = "<group>"; };
+		3446414F1D51A151005382F6 /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyViewController.h; sourceTree = "<group>"; };
+		344641501D51A151005382F6 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyViewController.m; sourceTree = "<group>"; };
+		344641521D51A165005382F6 /* DiscoveryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DiscoveryViewController.h; sourceTree = "<group>"; };
+		344641531D51A165005382F6 /* DiscoveryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DiscoveryViewController.m; sourceTree = "<group>"; };
+		344641551D51A171005382F6 /* OpenViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OpenViewController.h; sourceTree = "<group>"; };
+		344641561D51A171005382F6 /* OpenViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OpenViewController.m; sourceTree = "<group>"; };
 		6222F0B4769F678527C6D302 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		C6FCA9A8E3D2317D05DF04F6 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB484169965FCB1DAFFCE95E /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -93,6 +102,12 @@
 				3446414E1D519BBA005382F6 /* AppDelegate */,
 				344641421D519B95005382F6 /* MainTabViewController.h */,
 				344641431D519B95005382F6 /* MainTabViewController.m */,
+				3446414F1D51A151005382F6 /* MyViewController.h */,
+				344641501D51A151005382F6 /* MyViewController.m */,
+				344641521D51A165005382F6 /* DiscoveryViewController.h */,
+				344641531D51A165005382F6 /* DiscoveryViewController.m */,
+				344641551D51A171005382F6 /* OpenViewController.h */,
+				344641561D51A171005382F6 /* OpenViewController.m */,
 			);
 			path = Class;
 			sourceTree = "<group>";
@@ -244,9 +259,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				344641571D51A171005382F6 /* OpenViewController.m in Sources */,
 				344641491D519B95005382F6 /* AppDelegate.m in Sources */,
 				3446414C1D519B95005382F6 /* MainTabViewController.m in Sources */,
+				344641511D51A151005382F6 /* MyViewController.m in Sources */,
 				3446414B1D519B95005382F6 /* main.m in Sources */,
+				344641541D51A165005382F6 /* DiscoveryViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A236CE0D66DB06FEF78902F6879350F4C2D68767",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A236CE0D66DB06FEF78902F6879350F4C2D68767" : 0,
+    "5358BBBC7DB17E20AE3E48218AABF0A63370DB9E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8BAF5ADC-5723-4063-B660-BE971BD80A02",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A236CE0D66DB06FEF78902F6879350F4C2D68767" : "Press\/",
+    "5358BBBC7DB17E20AE3E48218AABF0A63370DB9E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Press",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Press.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/setipro\/Press.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5358BBBC7DB17E20AE3E48218AABF0A63370DB9E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:setipro\/Press.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A236CE0D66DB06FEF78902F6879350F4C2D68767"
+    }
+  ]
+}
